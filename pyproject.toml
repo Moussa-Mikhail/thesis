@@ -13,6 +13,7 @@ python = "^3.10"
 numpy = "^1.22.4"
 pandas = "^1.4.2"
 XlsxWriter = "^3.0.3"
+simulation = {git = "https://github.com/Moussa-Mikhail/thesis_code.git", rev="main"}
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.960"
