@@ -350,7 +350,6 @@ develop = false
 [package.dependencies]
 numba = "^0.55.2"
 numpy = "^1.22.4"
-pandas = "^1.4.2"
 PyQt5 = "^5.15.6"
 pyqtgraph = "^0.12.4"
 
@@ -358,7 +357,7 @@ pyqtgraph = "^0.12.4"
 type = "git"
 url = "https://github.com/Moussa-Mikhail/thesis_code.git"
 reference = "main"
-resolved_reference = "049dc8e99820fe93bdd1f7f1d5692e39853c8218"
+resolved_reference = "64ca1cdd840bf1bb44a4160819d40da6f65a3c7e"
 
 [[package]]
 name = "six"
